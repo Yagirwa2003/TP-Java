@@ -1,0 +1,6 @@
+Bonjour Michel
+Voici le texte à ecrire et à lire ....
+C'est le tp pour écrire dans un fichier 
+Avec BufferdWriter et FileWriter
+Mais aussi pour lire avec BufferedReader
+Passe une excellente journée
